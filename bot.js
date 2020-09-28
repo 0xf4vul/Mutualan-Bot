@@ -1,7 +1,7 @@
 const Twit = require("twit");
 const colors = require('colors/safe');
 const twit = new Twit(require("./config.js"));
-const mediaArtsSearch = { q: "mutualan", count: 100, result_type: "recent" };
+const mediaArtsSearch = { q: "mutual", count: 100, result_type: "recent" };
 const moment = require("moment")
 const ora = require('ora');
 const spinner = ora(' Twitter Bot Berjalan ..').start()
