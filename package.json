@@ -1,0 +1,18 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "gatau",
+  "main": "bot.js",
+  "dependencies": {
+    "cli-spinners": "^2.4.0",
+    "colors": "^1.4.0",
+    "ora": "^5.1.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "fdciabdul",
+  "license": "ISC"
+}
