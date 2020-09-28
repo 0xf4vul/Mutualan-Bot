@@ -9,5 +9,6 @@ https://developer.twitter.com/en/apps
 
 Edit the `config.js` and run `bot.js`
 
-Imma lazy person , so if u have to contribute this bot
-so that's it
+Imma lazy person , so if u feel something wrong with this
+
+make the PR and that's
